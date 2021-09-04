@@ -23,7 +23,7 @@
     },
     "ethermine": {
         "name": "Ethermine",
-        "regions": ["us2", "asia1", "eu1"],
+        "regions": ["us1", "asia1", "eu1"],
         "algos": {
             "etchash": {
                 "host": "ethproxy+ssl://REGION-etc.ethermine.org:5555"
